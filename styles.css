@@ -23,3 +23,17 @@
 .link-studio:focus {
     color:#404bbf;
 }
+.mail-tel{
+    font-style: normal;
+}
+.mail{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.mail:hover{
+   color:#404bbf;
+}
+.mail:focus{
+    color: #404bbf;
+}
