@@ -62,6 +62,18 @@
 .button:focus{
     background-color: #404BBF;
 }
-.button {
+.button{
     cursor: pointer;
+}
+.text-advantages{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:#2e2f42;
+}
+.text-strategy{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
